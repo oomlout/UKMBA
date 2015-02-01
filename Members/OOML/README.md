@@ -1,4 +1,4 @@
-![logo](/UKMBA-OOML-Logo-600.png)
+![logo](UKMBA-OOML-Logo-600.png)
 * Company Name: <b>Oomlout Ltd. </b>
 * Short ID: <b>OOML</b> 
 * Color: <b>Corn Flower Blue, #6495ED</b>

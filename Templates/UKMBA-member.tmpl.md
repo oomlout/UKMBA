@@ -1,5 +1,5 @@
 # %%ID%% - @@%%ID%%,ukmbaMember.shortID,name@@ - UKMBA Member Page</title>
-![logo](/UKMBA-%%ID%%-Logo-600.png)
+![logo](UKMBA-%%ID%%-Logo-600.png)
 ## Member Details
 * Company Name: <b>@@%%ID%%,ukmbaMember.shortID,name@@ </b>
 * Short ID: <b>@@%%ID%%,ukmbaMember.shortID,shortID@@</b> 

@@ -1,4 +1,4 @@
-![logo](/UKMBA-ABOP-Logo-600.png)
+![logo](UKMBA-ABOP-Logo-600.png)
 * Company Name: <b>ABOpen Ltd. </b>
 * Short ID: <b>ABOP</b> 
 * Color: <b>Kelly Green, #4CBB17</b>
