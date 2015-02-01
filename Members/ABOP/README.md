@@ -6,9 +6,7 @@ ABOP - ABOpen Ltd. - UKMBA Member Page
 * Color: <b>Kelly Green, #4CBB17</b>
 * Website: <b><a href="http://abopen.com"></a></b>
 * Member Since: <b>2014</b>
-About
---------------------------------
+ ##About
 Some words about ABOP.
-Why the UKMBA?
-----------------------------------
+ ##Why the UKMBA?
 Some words about why UKMBA.
