@@ -16,6 +16,6 @@ For full details visit. http://makerbelt.org.uk/
 ** /ABOP/ -- AB Open details (xml of all info and logo files)
 ** /OOML/ -- Oomlout details
 
-* /Templates/ -- templates to generate pages ussing [https://github.com/oomlout/oomlout-TPGE TPGE ]
+* /Templates/ -- templates to generate pages ussing [TPGE](https://github.com/oomlout/oomlout-TPGE)
 	
 	
